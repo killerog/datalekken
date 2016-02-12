@@ -1,4 +1,5 @@
 datum,organisatie,aantal_gegevens,soort_gegevens,url,cached
-2016-01-25,St. Anna-ziekenhuis en Canisius-Wilhelmina Ziekenhuis,4559,naam;geboortedatum;geslacht;specialisatie,https://www.security.nl/posting/458824/Datalek+bij+drie+ziekenhuizen+treft+ruim+158_000+pati%C3%ABnten,https://pinboard.in/u:killerog/t:datalekken/
+2016-01-25,St. Anna-ziekenhuis,4559,naam;geboortedatum;geslacht;specialisatie;patiëntnummer,https://www.security.nl/posting/458824/Datalek+bij+drie+ziekenhuizen+treft+ruim+158_000+pati%C3%ABnten,https://pinboard.in/u:killerog/t:datalekken/
+2016-01-25,Canisius-Wilhelmina Ziekenhuis,50,naam;patiëntnummer,https://www.security.nl/posting/458824/Datalek+bij+drie+ziekenhuizen+treft+ruim+158_000+pati%C3%ABnten,https://pinboard.in/u:killerog/t:datalekken/
 2016-01-31,Belastingdienst,20+,naw;bsn;inkomen,http://demonitor.ncrv.nl/digitaal-doolhof/autoriteit-persoonsgegevens-privacylek-bij-belastingdienst-is-onaanvaardbaar,https://pinboard.in/u:killerog/t:datalekken/
 2016-02-12,NS,5000,naw;bankrekening,http://nieuws.ns.nl/ns-verzond-per-ongeluk-verkeerde-betalingsverzoeken/,https://pinboard.in/u:killerog/t:datalekken/
