@@ -5,3 +5,7 @@ datum,organisatie,aantal_gegevens,soort_gegevens,url,cached
 2016-02-12,NS,5000,naw;bankrekening,http://nieuws.ns.nl/ns-verzond-per-ongeluk-verkeerde-betalingsverzoeken/,https://pinboard.in/cached/98ab5c7d287d/
 2016-02-23,Gemeente Leeuwarden,1600,naw;bankrekening?;inkomen,http://frieschdagblad.nl/index.asp?artID=70894,https://pinboard.in/cached/df6215d1b137/
 2016-03-02,VUMC;AMC,350,medische gegevens;EPD,https://www.vumc.nl/afdelingen/over-vumc/nieuws/gegevens-epd-tijdelijk-zichtbaar-amc/,https://pinboard.in/cached/66ac50cede8d/
+2016-03-07,Van Hall Lavenstein,4400,naw;bsn;telefoonnummer;emailadres;http://www.omroepgelderland.nl/nieuws/2106621/Gegevens-4400-studenten-Van-Hall-Larenstein-op-straat,https://pinboard.in/u:killerog/t:datalekken/
+2016-03-09,Gemeente Rotterdam,25000,naw;bsn,http://www.rijnmond.nl/nieuws/139538/Gemeente-maakt-fout-met-persoonsgegevens-Rotterdammers,https://pinboard.in/cached/5cf3a2016672/
+2016-03-09,Gemeente Oegstgeest,8000,naw;bsn;geslacht;geboortedatum,http://tweakers.net/nieuws/109141/persoonsgegevens-burgers-rotterdam-en-oegstgeest-waren-toegankelijk-door-fout.html,https://pinboard.in/cached/8a6f8767b2e6/
+2016-03-11,Gemeente Medemblik,20,onbekend,http://www.medemblikactueel.nl/2016/03/11/datalek-gemeente-medemblik/,https://pinboard.in/cached/fd58870b70e9/
